@@ -1,0 +1,3 @@
+D:\obj\C#\лаб.12\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfoInputs.cache
+D:\obj\C#\лаб.12\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfo.cs
+D:\obj\C#\лаб.12\lab13\obj\Debug\netcoreapp3.1\lab13.csproj.CoreCompileInputs.cache
